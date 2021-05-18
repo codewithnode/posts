@@ -1,0 +1,26 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "Post CRUD App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithnode/posts.git"
+  },
+  "author": "Giriraj Nagaraju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithnode/posts/issues"
+  },
+  "homepage": "https://github.com/codewithnode/posts#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
